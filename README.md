@@ -1,6 +1,6 @@
 
 ## MY WORKS
-[classification task](https://github.com/pradeep-dsml/pradeep-dsml.github.io/edit/main/README.md)
+[classification task](https://github.com/pradeep-dsml/pradeep-dsml.github.io)
 
 [regression task](https://github.com/pradeep-dsml/model-deployment-using-flask-and-heroku)
 
