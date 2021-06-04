@@ -79,7 +79,7 @@
 
 # Certification/BootCamp
 
- - The Complete SQL Bootcamp 2021: Go from Zero to Hero       **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf)|[(Udemy)](https://www.udemy.com/certificate/UC-2b32afcf-7eca-4222-9efd-d83c4cc4c0ce/)]**
+ - The Complete SQL Bootcamp 2021: Go from Zero to Hero       **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/SQL%20Certificate(pdf).pdf)[(Udemy)](https://www.udemy.com/certificate/UC-2b32afcf-7eca-4222-9efd-d83c4cc4c0ce/)]**
  - The Complete Tableau Bootcamp for Data Visualization       **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Tableau%20Certificate(pdf).pdf)[(Udemy)](https://www.udemy.com/certificate/UC-679f7879-9ebd-42db-a3f5-e5cf7bfed88d/)]**
  - Data Science and Machine Learning Bootcamp with R          **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/DS_ML%20in%20R%20Certificate(pdf).pdf)[(Udemy)](https://www.udemy.com/certificate/UC-b311e2c1-16a2-4e64-a75e-e64e0661a337/)]**
  - Python for Machine Learning & Data Science Masterclass     **_Link to Certificate:-_ [[(GitHub)](https://github.com/pradeep-dsml/My_Certification/blob/main/Python%20DS_ML%20Certificate(pdf).pdf)[(Udemy)](https://www.udemy.com/certificate/UC-92fb0eb2-a26c-4b3c-8a69-70d259067abe/)]**
