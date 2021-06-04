@@ -1,4 +1,4 @@
-### Hi there. I am Pradeep Yadav [[My Resume]](https://github.com/pradeep-dsml/My_Resume/blob/main/Pradeep_dataAnalyst-Scientist_resumeB.pdf)[[My Articles]](articles.md)
+### Hi there. I am Pradeep Yadav [[My Resume]](https://github.com/pradeep-dsml/My_Resume/blob/main/Pradeep_dataAnalyst-Scientist_resumeB.pdf) [[My Articles]](articles.md)
 
 <!--
 
