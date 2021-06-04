@@ -23,6 +23,7 @@
 	- #### Classification
 		- [Text Classification in scikit-learn(Spam Detection)](https://github.com/pradeep-dsml/text-classification/tree/main/spam%20detection):  A model to classify text data for spam detection on sms data using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes and Logistic regression classifiers.
 		- [Yelp reviews star prediction(text classification)](https://github.com/pradeep-dsml/text-classification/tree/main/yelp%20review):  A model to classify text data for yelp bussiness review (star rating) prediction (binary class and 5-class both) using python pandas and scikit learn libraries specially count vectorisor(feature extraction), multinomial Naive Bayes classifiers.
+
 <!--
 	- #### Regression
 		- [Predicting Boston Housing Prices](link): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
@@ -31,6 +32,7 @@
 	- [Unsupervised Learning: Creating Customer Segments](link): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](link): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
 -->
+
 <!--
 	
 - ### Deep Learning
